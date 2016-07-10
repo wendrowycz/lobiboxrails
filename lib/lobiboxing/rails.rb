@@ -1,4 +1,4 @@
-require "lobibox/rails/version"
+require "lobiboxing/rails/version"
 
 module Lobibox
   module Rails

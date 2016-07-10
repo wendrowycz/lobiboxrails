@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lobibox/rails/version'
+require 'lobiboxing/rails/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "lobiboxrails"
+  spec.name          = "lobiboxing-rails"
   spec.version       = Lobibox::Rails::VERSION
   spec.authors       = ["Bartosz Grzesiak"]
   spec.email         = ["bartosz.grzesiaj@gmail.com"]
