@@ -1,5 +1,5 @@
 module Lobibox
   module Rails
-    VERSION = "1.0.0"
+    VERSION = "1.2.4"
   end
 end
