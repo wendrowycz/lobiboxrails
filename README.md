@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/lobiboxing-rails.svg)](https://badge.fury.io/rb/lobiboxing-rails)
+
 # lobiboxrails
 
 lobiboxrails wraps the [lobibox](https://github.com/arboshiki/lobibox) library in a rails engine for simple
